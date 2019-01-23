@@ -1,0 +1,18 @@
+Model jflex 
+ Parameters:
+p1: {v10,v11,v12}
+p2: {v20,v21,v22,v23}
+p3: {v30,v31,v32}
+p4: Boolean
+p5: Boolean
+p6: Boolean
+p7: Boolean
+p8: Boolean
+p9: Boolean
+p10: Boolean
+p11: Boolean
+p12: {v40,v41,v42}
+p13: Boolean
+
+Constraints:
+  # !(p2=v20 and p3=v31) #

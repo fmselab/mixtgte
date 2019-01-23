@@ -1,0 +1,20 @@
+Model hsqldb
+
+Parameters:
+p1: {server, weserver, inprocess}
+p2: Boolean
+p3: Boolean
+p4: Boolean
+p5: Boolean
+p6: Boolean
+p7: Boolean
+p8: Boolean
+p9: {next, previous, first, last}
+p10: {forward, sensitive, insensitive}
+p11: Boolean
+p12: Boolean
+
+Constraints:
+# !( !p6 and p9=first and p10=insensitive) #
+# !( !p6 and p9=first and p10=sensitive) #
+# !p3 #

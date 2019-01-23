@@ -1,0 +1,12 @@
+Model exB
+
+Parameters:
+a: Boolean
+b: Boolean
+c: Boolean
+
+// constraints needed only for the oracle
+Constraints:
+# !(a and !b) #
+# !(a and c) #
+# !(!a and b and !c) #

@@ -1,0 +1,14 @@
+Model art4
+
+Parameters:
+a: Boolean
+b: Boolean
+c: Boolean
+d: Boolean
+e: Boolean
+f: Boolean
+g: Boolean
+
+Constraints:
+# ! (a and b) #
+# ! (!c and d and e) #

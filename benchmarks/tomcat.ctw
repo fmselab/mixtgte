@@ -1,0 +1,17 @@
+Model Tomcat 
+ Parameters:
+   p1 : Boolean
+   p2 : Boolean
+   p3 : Boolean
+   p4 : {b1, b2, b3, b4}
+   p5 : Boolean
+   p6 : Boolean
+   p7 : Boolean
+   p8 : Boolean
+   p9 : Boolean
+   p10 : { v1, v2, v3}
+
+ Constraints:
+   # ! (p1 and p4=b3) #
+   # ! (p1 and p4=b1) #
+   # p9 #

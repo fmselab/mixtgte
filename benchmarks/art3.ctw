@@ -1,0 +1,10 @@
+Model art3
+
+Parameters:
+a: Boolean
+b: Boolean
+c: Boolean
+
+Constraints:
+# !a #
+# ! (!b and c) #

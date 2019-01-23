@@ -1,0 +1,19 @@
+Model gcc
+
+Parameters:
+oo1: {oo11, oo12, oo13, oo14, oo15, oo16}
+MachineDependent: Boolean
+OverallOption: Boolean
+oo2: Boolean
+oo3: Boolean
+oo4: Boolean
+oo5: Boolean
+oo6: Boolean
+oo7: Boolean
+file: Boolean
+
+Constraints:
+# !( oo1=oo12 and oo2 and !file) #
+# !( oo1=oo12 and oo4 and !file) #
+# !( oo1=oo13 and oo4 and !file) #
+# !( oo1=oo13 and oo2 and !file) #

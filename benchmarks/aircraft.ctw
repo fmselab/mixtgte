@@ -1,0 +1,15 @@
+Model Aircraft
+
+Parameters:
+	High: Boolean;
+	Shoulder: Boolean;
+	Low: Boolean;
+	Engine: { Jet Piston NONE };
+	Metal: Boolean;
+	Wood: Boolean;
+	Cloth: Boolean;
+	Plastic: Boolean;
+
+Constraints:
+	# High==true || Shoulder==true || Low==true #
+	# Metal==true || Wood==true || Cloth==true || Plastic==true #

@@ -1,0 +1,11 @@
+Model art6
+
+Parameters:
+a: Boolean
+b: Boolean
+c: Boolean
+d: {d1 d2 d3}
+e: {e1 e2 e3 e4 e5}
+
+Constraints:
+# ! (a and b and d=d3) #
