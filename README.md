@@ -12,4 +12,4 @@ Benchmarks are available under the [benchmarks](benchmarks/) folder in this repo
 
 The authors,
 
-P. Arcaini, [A. Gargantini](mailto://angelo.gargantini@unibg.it), [M. Radavelli](https://cs.unibg.it/radavelli/)
+[P. Arcaini](http://group-mmm.org/~arcaini/), [A. Gargantini](https://cs.unibg.it/gargantini/), [M. Radavelli](https://cs.unibg.it/radavelli/)
