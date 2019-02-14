@@ -10,6 +10,7 @@ Benchmarks are available under the [benchmarks](benchmarks/) folder in this repo
 
 - The R script to aggregate statistics and generate data for Table V is available at the root of this repository: [stats.R](stats.R).
 
-The authors,
-
+## Paper
 [P. Arcaini](http://group-mmm.org/~arcaini/), [A. Gargantini](https://cs.unibg.it/gargantini/), [M. Radavelli](https://cs.unibg.it/radavelli/)
+*Efficient and Guaranteed Detection of t-way Failure-inducing Combinations*
+in 8th International Workshop on Combinatorial Testing (IWCT 2019), April 2019
